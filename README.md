@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @quant-o
 - 👀 I love storytelling, creating interactive experiences, and gaming! 
 - 🌱 I’m currently learning web development and video.
-- 💞️ I’m looking to collaborate on investments, art, gaming or blockchain tech!
+- 👾 I’m looking to collaborate on investments, art, gaming or blockchain tech!
 - 📫 Feel free to reach out through github!
 
 <!---
